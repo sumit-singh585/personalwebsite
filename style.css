@@ -1,0 +1,82 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.color{
+    color:#E01880;
+    letter-spacing:2px;
+}
+p{
+    color:dimgray;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg,#F85D98,#CE0D50);
+    padding:10px 20px;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 10px;
+}
+.half-width img{
+
+    width: 100%;
+
+}
+.first-section{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 50px;
+    padding-left: 50px;
+    padding-top:400px ;
+    padding-bottom:600px;
+}
+.second-section{
+    padding-top: 50px;
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.first-half{
+    text-align: center;
+}
+.first-half img{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 2%;
+}
+.third-section{
+    background-image: url("image/latest-work-bg.png");
+    background-repeat: no-repeat;
+   
+}
+.link-button-color{
+    text-decoration: none;
+    background-image: linear-gradient(180deg,#F85D98,#CE0D50);
+    padding:20px 40px;
+    border-radius: 5px;
+    color:white;
+    white-space: pre-line;
+}
+.fourth-section{
+    background-image: url("image/footer-bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    white-space:pre-line;
+  
+}
+footer p{
+    text-align: center;
+}
